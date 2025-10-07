@@ -44,3 +44,9 @@ Developed by: RegisterNumber:
 **TRUTH TABLE**
 
 **RESULTS**
+Logic Gate
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/ee98d928-741e-4fa1-b3ed-2792f1b569b6" />
+clock pulse
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/a13e6dc7-a4e2-4385-9aa4-1c5e5f7162bc" />
+
+
